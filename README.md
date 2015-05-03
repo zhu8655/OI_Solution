@@ -8,3 +8,7 @@
 * Splay
  * BZOJ_1503
  * BZOJ_1588
+
+##Others
+* 二分答案
+ * BZOJ_1082(未完成)
