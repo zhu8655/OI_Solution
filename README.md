@@ -6,7 +6,7 @@
 
 ##Data Structure
 * Splay
- * []ZOJ_1503](http://www.lydsy.com/JudgeOnline/problem.php?id=1503)
+ * [BZOJ_1503](http://www.lydsy.com/JudgeOnline/problem.php?id=1503)
  * [BZOJ_1588](http://www.lydsy.com/JudgeOnline/problem.php?id=1588)
 
 ##Others
