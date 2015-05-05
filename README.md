@@ -11,4 +11,4 @@
 
 ##Others
 * 二分答案
- * [BZOJ_1082](http://www.lydsy.com/JudgeOnline/problem.php?id=1082)(未完成)
+ * [BZOJ_1082](http://www.lydsy.com/JudgeOnline/problem.php?id=1082)
