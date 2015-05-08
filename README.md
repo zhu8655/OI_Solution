@@ -8,6 +8,8 @@
 * Splay
  * [BZOJ_1503](http://www.lydsy.com/JudgeOnline/problem.php?id=1503)
  * [BZOJ_1588](http://www.lydsy.com/JudgeOnline/problem.php?id=1588)
+* 线段树
+ * [POJ_3468](http://poj.org/problem?id=3468)
 
 ##Tree
 * 树分治
