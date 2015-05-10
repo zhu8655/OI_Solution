@@ -15,6 +15,10 @@
 * 树分治
  * [POJ_1741](http://poj.org/problem?id=1741)
 
+##Graph
+* 平面图最大流
+ * [BZOJ_1001](http://www.lydsy.com/JudgeOnline/problem.php?id=1001)
+
 ##Others
 * 二分答案
  * [BZOJ_1082](http://www.lydsy.com/JudgeOnline/problem.php?id=1082)
