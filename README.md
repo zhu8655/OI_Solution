@@ -24,3 +24,5 @@
  * [BZOJ_1082](http://www.lydsy.com/JudgeOnline/problem.php?id=1082)
 * 二进制
  * [CH_64_T1](http://ch.ezoj.tk/contest/CH%20Round%20%2364%20-%20MFOI%E6%9D%AF%E6%B0%B4%E9%A2%98%E6%AC%A2%E4%B9%90%E8%B5%9B%20day1/Solve)
+* 找规律
+ * [BZOJ_1002](http://www.lydsy.com/JudgeOnline/problem.php?id=1002)
