@@ -16,6 +16,8 @@
  * [POJ_1741](http://poj.org/problem?id=1741)
 
 ##Graph
+* 最短路
+ * [BZOJ_1003](http://www.lydsy.com/JudgeOnline/problem.php?id=1003)
 * 平面图最大流
  * [BZOJ_1001](http://www.lydsy.com/JudgeOnline/problem.php?id=1001)
 
