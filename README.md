@@ -15,6 +15,10 @@
 * 树分治
  * [POJ_1741](http://poj.org/problem?id=1741)
 
+##Math
+* Polya
+ * [BZOJ_1004](http://www.lydsy.com/JudgeOnline/problem.php?id=1004)
+
 ##Graph
 * 最短路
  * [BZOJ_1003](http://www.lydsy.com/JudgeOnline/problem.php?id=1003)
