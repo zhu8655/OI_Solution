@@ -36,9 +36,9 @@ int solve() {
 	return f[Sr][Sb][Sg];
 }
 void exgcd(int a,int b,int &x,int &y) {
-    if(b==0){x=1;y=0;return;}
-    exgcd(b,a%b,x,y);
-    int t=x;x=y;y=t-a/b*y;
+	if(b==0){x=1;y=0;return;}
+	exgcd(b,a%b,x,y);
+	int t=x;x=y;y=t-a/b*y;
 }
 int main() {
 	scanf("%d%d%d%d%d", &Sr, &Sb, &Sg, &m, &p); n = Sr+Sb+Sg;
@@ -51,8 +51,8 @@ int main() {
 	ans = (ans+solve())%p;
 	
 	int x, y; m++;
-    exgcd(m, p, x, y);
-    while (x <= 0) x += p, y -= m;
-    printf("%d", ans*x%p);
+	exgcd(m, p, x, y);
+	while (x <= 0) x += p, y -= m;
+	printf("%d", ans*x%p);
 	return 0;
 }
