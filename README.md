@@ -1,4 +1,4 @@
-弱菜的博客地址：[http://www.cnblogs.com/zhu8655/](http://www.cnblogs.com/zhu8655/)
+[弱菜的博客](http://www.jianshu.com/users/cb71ade33d58/latest_articles)
 
 ##Dynamic Programming
 * 单调队列优化
