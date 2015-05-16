@@ -35,10 +35,10 @@ int solve() {
 				}
 	return f[Sr][Sb][Sg];
 }
-void exgcd(int a,int b,int &x,int &y) {
-	if(b==0){x=1;y=0;return;}
-	exgcd(b,a%b,x,y);
-	int t=x;x=y;y=t-a/b*y;
+void exGcd(int a, int b, int &x, int &y) {
+	if (b == 0) {x = 1; y = 0; return;}
+	exGcd(b, a%b, x, y);
+	int t = x; x = y; y = t-a/b*y;
 }
 int main() {
 	scanf("%d%d%d%d%d", &Sr, &Sb, &Sg, &m, &p); n = Sr+Sb+Sg;

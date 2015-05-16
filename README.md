@@ -1,4 +1,4 @@
-一个弱菜的解题报告。
+[弱菜的博客地址：http://www.cnblogs.com/zhu8655/](http://www.cnblogs.com/zhu8655/)
 ##Dynamic Programming
 * 单调队列优化
  * [BZOJ_2442](http://www.lydsy.com/JudgeOnline/problem.php?id=2442)
