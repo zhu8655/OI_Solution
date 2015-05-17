@@ -40,8 +40,8 @@ void work(){
 }
 int main(){
 	while(scanf("%d%d", &n, &m) == 2){
-        read();
-        work();
-    }
-return 0;
+	        read();
+	        work();
+	    }
+	return 0;
 }
