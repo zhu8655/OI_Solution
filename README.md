@@ -15,6 +15,8 @@
 ##Tree
 * 树分治
  * [POJ_1741](http://poj.org/problem?id=1741)
+* Purfer编码
+ * [BZOJ_1005](http://www.lydsy.com/JudgeOnline/problem.php?id=1005)
 
 ##Math
 * Polya
