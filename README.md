@@ -28,6 +28,10 @@
 * 平面图最大流
  * [BZOJ_1001](http://www.lydsy.com/JudgeOnline/problem.php?id=1001)
 
+##计算几何
+* 半平面交
+ * [BZOJ_1007](http://www.lydsy.com/JudgeOnline/problem.php?id=1007)
+
 ##Others
 * 二分答案
  * [BZOJ_1082](http://www.lydsy.com/JudgeOnline/problem.php?id=1082)
