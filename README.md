@@ -19,6 +19,8 @@
  * [BZOJ_1005](http://www.lydsy.com/JudgeOnline/problem.php?id=1005)
 
 ##Math
+* 快速幂
+ * [BZOJ_1008](http://www.lydsy.com/JudgeOnline/problem.php?id=1008)
 * Polya
  * [BZOJ_1004](http://www.lydsy.com/JudgeOnline/problem.php?id=1004)
 
