@@ -4,6 +4,8 @@
 * 单调队列优化
  * [BZOJ_2442](http://www.lydsy.com/JudgeOnline/problem.php?id=2442)
  * [POJ_1821](http://poj.org/problem?id=1821)
+* 矩阵乘法加速
+ * [BZOJ_1009](http://www.lydsy.com/JudgeOnline/problem.php?id=1009)
 
 ##Data Structure
 * Splay
