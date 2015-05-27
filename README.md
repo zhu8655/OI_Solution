@@ -1,10 +1,10 @@
 [弱菜的博客](http://www.jianshu.com/users/cb71ade33d58/latest_articles)
 
 ##Dynamic Programming
-* 单调队列优化
+* 单调队列
  * [BZOJ_2442](http://www.lydsy.com/JudgeOnline/problem.php?id=2442)
  * [POJ_1821](http://poj.org/problem?id=1821)
-* 矩阵乘法加速
+* 矩阵乘法
  * [BZOJ_1009](http://www.lydsy.com/JudgeOnline/problem.php?id=1009)
 
 ##Data Structure
