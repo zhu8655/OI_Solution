@@ -4,6 +4,8 @@
 * 单调队列
  * [BZOJ_2442](http://www.lydsy.com/JudgeOnline/problem.php?id=2442)
  * [POJ_1821](http://poj.org/problem?id=1821)
+* 斜率优化
+ * [BZOJ_1010](http://www.lydsy.com/JudgeOnline/problem.php?id=1010)
 * 矩阵乘法
  * [BZOJ_1009](http://www.lydsy.com/JudgeOnline/problem.php?id=1009)
 
